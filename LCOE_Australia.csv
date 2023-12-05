@@ -1,0 +1,12 @@
+Country,Plant category,Plant type,Construction costs (USD/MWh),Refurbishment costs (USD/MWh),Decommissioning costs (USD/MWh),Total capital costs (USD/MWh),Operations & maintenance costs (USD/MWh),Fuel costs (th) (USD/MWh),Fuel costs (el) (USD/MWh),Carbon price (USD/ton),Carbon costs (USD/MWh),Heat price (USD/MWh),CHP heat revenues (USD/MWh),Discount rate,LCOE (USD/MWh)
+Australia,Solar,Solar PV (utility scale) (100 MW),33.58,0.0,0.28,33.86,4.79,0.0,0.0,30,0.0,37.06,0.0,0.07,38.65
+Australia,Wind,Wind onshore (>= 1 MW) (100 MW),33.41,0.0,0.28,33.69,9.31,0.0,0.0,30,0.0,37.06,0.0,0.07,43.0
+Australia,Wind,Wind offshore (100 MW),66.74,0.0,0.56,67.29,18.07,0.0,0.0,30,0.0,37.06,0.0,0.07,85.36
+Australia,Gas,Gas (CCGT) (506 MW),11.07,0.0,0.06,11.14,6.59,26.63,56.04,30,12.750000000000002,37.06,0.0,0.07,86.51
+Australia,Coal,Supercritical pulverised (722 MW),27.21,0.0,0.07,27.28,8.69,11.89,29.66,30,25.471952131638,37.06,0.0,0.07,91.1
+Australia,Lignite,Supercritical pulverised (709 MW),42.0,0.0,0.11,42.11,11.26,1.63,5.13,30,34.355905511811024,37.06,0.0,0.07,92.86
+Australia,Gas,"Gas (CCGT, CCUS) (437 MW)",32.78,0.0,0.18,32.96,12.87,26.63,64.96,30,1.4781166138082455,37.06,0.0,0.07,112.27
+Australia,Coal,Supercritical pulverised (CCUS) (633 MW),50.2,0.0,0.14,50.34,19.34,11.89,39.58,30,3.399933444259567,37.06,0.0,0.07,112.66
+Australia,Lignite,Supercritical pulverised (CCUS) (570 MW),77.05,0.0,0.21,77.26,25.56,1.63,7.89,30,5.282324455205811,37.06,0.0,0.07,115.99
+Australia,Solar,Solar thermal (CSP) (150 MW),109.18,0.0,0.91,110.09,19.46,0.0,0.0,30,0.0,37.06,0.0,0.07,129.55
+Australia,Gas,Gas (OCGT/int. comb.) (537 MW),21.2,0.0,0.12,21.32,9.09,26.63,86.91,30,19.77415143603133,37.06,0.0,0.07,137.09
