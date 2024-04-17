@@ -1,2 +1,5 @@
-# ml_proj
-The best project the city of Melbourne has ever seen.
+# Prescribing Optimal Electricity Generation in Victoria
+
+Australia is currently setting up its climate framework with a net zero strategy in preparation. Nonetheless, the Climate Action Tracker (CAT) rates Australia’s nationally determined contribution (NDC) as insufficient. The state of Victoria, in particular, faces a grave climate and energy crisis, with its electricity generation accounting for 51\% of its total emissions. To meet its targets of 95\% renewable electricity target by 2035 and net-zero emissions by 2045, it must promptly learn to balance two critical challenges: climate change and wartime-scale energy costs (Liebman, 2022). 
+
+Energy demand can be very volatile. This poses a challenge to governments in crafting an energy plan that satisfies public needs while advancing sustainability efforts. This project aims to optimize the daily electricity generation for Victoria, Australia, using predictive and prescriptive analytics. In particular, we seek to determine the optimal quantity of electricity to generate by each energy source, to maximise profit and meet emissions targets. This problem is crucial for efficient environmental sustainability, energy management, and cost reduction.
